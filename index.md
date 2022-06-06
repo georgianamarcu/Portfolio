@@ -1,6 +1,5 @@
-# Georgiana Marcu
 
-**[Linkedin](https://www.linkedin.com/in/georgianamarcu/)**  **[Email](mailto:georgiana.marcu22@gmail.com)** 
+<div align="center"> **[Linkedin](https://www.linkedin.com/in/georgianamarcu/)**  **[Email](mailto:georgiana.marcu22@gmail.com)** </div>
 
 <div align="center"> I am a Junior FrontEnd Developer based in Brussels, looking for an internship that will mark the start of my career change. </div>
   
