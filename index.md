@@ -75,7 +75,7 @@
 
 ### Projects in progress
 
-- *World tour webpage for G-Idle*
+- [*World tour webpage for G-Idle*](https://github.com/georgianamarcu/gidle-worldtour-page)
 > A world tour webpage for a Korean girl group to practice my use of React
 
 ### Homepage
