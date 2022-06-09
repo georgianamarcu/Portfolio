@@ -79,5 +79,5 @@
 > A world tour webpage for a Korean girl group to practice my use of React
 
 ### Homepage
-![GIdle Homepage](./GIdleConcert-Homescreen.png?raw=true "GIdle Homepage")
+![GIdle Homepage](./GIdleTour-Homescreen.png?raw=true "GIdle Homepage")
 ```
